@@ -1,5 +1,4 @@
-## Salut ! je suis Valentin, bienvenue sur mon profil !
-
+## Hi ! I'm Valentin, Welcome to my profil !
 <!--
 **ValentinPP57/ValentinPP57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
