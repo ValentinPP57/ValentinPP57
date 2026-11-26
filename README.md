@@ -1,6 +1,6 @@
 ## Hi ! I'm Valentin, Welcome to my profil !
 
-![Profile vieww](https://komarev.com/ghpvc/?username=ValentinPP57&color=red&style=plastic)
+![Profile vieww](https://komarev.com/ghpvc/?username=ValentinPP57&color=red&style=plastic&abbreviated=true)
 <!--
 **ValentinPP57/ValentinPP57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
